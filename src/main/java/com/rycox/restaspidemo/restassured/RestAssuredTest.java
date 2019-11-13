@@ -3,7 +3,7 @@ package com.rycox.restaspidemo.restassured;
 
 import com.rycox.restaspidemo.restassured.api.DummyRestExampleApi;
 import com.rycox.restaspidemo.restassured.api.MockApi;
-import com.rycox.restaspidemo.restassured.configuration.EnvironmentConfiguration;
+import com.rycox.configuration.EnvironmentConfiguration;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

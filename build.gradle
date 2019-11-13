@@ -18,4 +18,5 @@ dependencies {
     compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.0")
     compile("javax.xml.bind:jaxb-api:2.2")
     compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.0")
+    compile("org.seleniumhq.selenium:selenium-java:3.141.59")
 }
